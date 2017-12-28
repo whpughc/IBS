@@ -1,13 +1,34 @@
-# firstblood
-初来乍到
+# new-repository-ghc
+nothing
+s
+AD
+ASD
+AS
+DA
+SD
+ADS
+ASF
+A
+SF
+A
+DS
+ASD
+AS
 
-hello-world
+ASDA
+DSA
+DA
+DSA
+SD
+AD
+ADS
+AS
+DADSADSASDADSASSSSSSSSSSSSSSSSSSSSSGG
+GGGGGGGGBOOMBOOM
 
-hi Humens!
-hubot here,i like node.js and coffeescript(that is  what i'm made of!).
-i've had tacos on the moon and find them far superior to earth tacos.
-
-first boom
 
 
-
+ghc
+cccc
+hhhh
+ggggg
